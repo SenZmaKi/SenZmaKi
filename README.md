@@ -1,18 +1,4 @@
-<h1 align="center">👋🏿 Hi, I'm Sen — the strongest developer in Kenya</h1>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenZmaKi&layout=compact&hide=Jupyter%20Notebook,css,html&count_private=true&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenZmaKi&show_icons=true&theme=radical&hide_rank=false&hide=prs&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SenZmaKi&theme=radical" alt="GitHub Streak" />
-</p>
+<h1 align="left">👋🏿 Hi, I'm Sen — the strongest developer in Kenya</h1>
 
 ---
 
@@ -38,7 +24,23 @@
 
 ---
 
-<h2 align="left">💻 Technologies I'm into</h2>
+<h2 align="left">📊 GitHub Stats</h2>
+
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SenZmaKi&show_icons=true&theme=radical&hide_rank=false&hide=prs&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<h2 align="left">💻 Languages I Mostly Use</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenZmaKi&layout=compact&hide=Jupyter%20Notebook,css,html&count_private=true&theme=radical" alt="Top Languages" />
+</p>
+
+<h2 align="left">🧰 Technologies I'm into</h2>
 
 <p align="left">
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
