@@ -13,15 +13,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/SenZmaKi/Sentorr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenZmaKi&repo=Sentorr&theme=radical" alt="Sentorr repo" />
-  </a>
-  <a href="https://github.com/SenZmaKi/Kenyare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenZmaKi&repo=Kenyare&theme=radical" alt="Kenyare repo" />
-  </a>
-</p>
-
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
