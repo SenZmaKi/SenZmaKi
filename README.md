@@ -11,6 +11,12 @@
   <a href="https://github.com/SenZmaKi/Sengpt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenZmaKi&repo=Sengpt&theme=radical" alt="Sengpt repo" />
   </a>
+    <a href="https://github.com/SenZmaKi/Kenyare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenZmaKi&repo=Kenyare&theme=radical" alt="Kenyare repo" />
+  </a>
+  <a href="https://github.com/SenZmaKi/Sengpt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SenZmaKi&repo=Sentorr&theme=radical" alt="Sentorr repo" />
+  </a>
 </p>
 
 ---
