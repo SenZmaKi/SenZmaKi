@@ -1,6 +1,4 @@
-<h1 align="left">👋🏿 Hi, I'm Sen — the strongest developer in Kenya</h1>
-
----
+<h1 align="left">Konnichiwa 🍜</h1>
 
 <h2 align="left">🚀 Featured Projects</h2>
 
